@@ -29,3 +29,11 @@ single-source shortest paths (Dijkstra's algorithm), and all-pairs shortest path
 
 These are just some of the important topics covered in the book. "Introduction to Algorithms" goes into detail on each topic, providing explanations, 
 algorithms, pseudocode, and analysis. It's a valuable resource for anyone studying algorithms and data structures.
+
+
+Dear MD Fardin Jaman Aranyak
+
+Thanks for registering at Timus Online Judge!
+
+Your JUDGE_ID: 361846WY
+You will need this code to submit solutions.
